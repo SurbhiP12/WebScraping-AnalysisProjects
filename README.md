@@ -1,3 +1,4 @@
+
 ## WebScraping-Wikipedia
 This project involves creating a web scraper to extract data from Wikipedia. The scraper will navigate Wikipedia's database, identify relevant information, and collect it for analysis. This data can be used for research, and machine learning. The project uses python and its beautifulsoup and pandas libraries.
 This goes through an article on wikipedia-"Largest companies in USA by revenue". It scraps the structured data in the tabular form for 100 top companies in USby revenue. I used libraries like beautifulSoup and pandas for executing this. After scraping data from the wikipedia,I exported it in a csv file in my local system for further analysis.
